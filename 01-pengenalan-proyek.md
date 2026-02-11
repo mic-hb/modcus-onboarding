@@ -84,12 +84,12 @@ Karena masalah di atas, kita memutuskan untuk **membangun ulang (rebuild)** sist
 
 ### Epic Brief & Plan
 
-Untuk versi Modcus v0.2, kita punya sebuah [**Epic Brief**](../specs/2026-02-03_v0.2-project-rebuild/01-epic-brief.md), yaitu dokumentasi yang berisis rencana implementasi, latar belakang membuat v0.2, pembahasan detail, dan fitur apa saja yang akan dibuat (--> [di sini](../specs/2026-02-03_v0.2-project-rebuild/01-epic-brief.md))
+Untuk versi Modcus v0.2, kita punya sebuah [**Epic Brief**](./specs/2026-02-03_v0.2-project-rebuild/01-epic-brief.md), yaitu dokumentasi yang berisis rencana implementasi, latar belakang membuat v0.2, pembahasan detail, dan fitur apa saja yang akan dibuat (--> [di sini](./specs/2026-02-03_v0.2-project-rebuild/01-epic-brief.md))
 
 Selain sebuah **Epic Brief**, kita juga punya dokumen terkait seperti:
-- [**Core Flows**](../specs/2026-02-03_v0.2-project-rebuild/02-core-flows.md) - Gambaran tentang apa yang bisa dilakukan dengan Modcus v0.2
-- [**Technical Plan**](../specs/2026-02-03_v0.2-project-rebuild/03-technical-plan.md) - Rancangan teknis secara detail
-- [**Architecture Validation**](../specs/2026-02-03_v0.2-project-rebuild/04-architecture-validation.md) - Penjelasan tentang arsitektur sistem
+- [**Core Flows**](./specs/2026-02-03_v0.2-project-rebuild/02-core-flows.md) - Gambaran tentang apa yang bisa dilakukan dengan Modcus v0.2
+- [**Technical Plan**](./specs/2026-02-03_v0.2-project-rebuild/03-technical-plan.md) - Rancangan teknis secara detail
+- [**Architecture Validation**](./specs/2026-02-03_v0.2-project-rebuild/04-architecture-validation.md) - Penjelasan tentang arsitektur sistem
 
 ---
 
